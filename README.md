@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/03/a0/0f/03a00f00d52f56b448e99454c9be5e90.gif"  />
+  <img width="800" height="400" src="https://i.redd.it/yc20vrqggmdx.gif" alt="main image" />
 </div>
 
 ###
@@ -10,9 +10,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Nihith from Dehradun, Uttarakhand<br><br>- 📚 I'm currently learning AI/ML and Data Analysis.<br>- ⚡ In my free time I create AI images, play games, and look at the stars! 🔭</p>
+<p align="left">
+  I'm Nihith from Dehradun, Uttarakhand.<br><br>
+  - 📚 I'm currently learning AI/ML and Data Analysis.<br>
+  - ⚡ In my free time, I create AI images, play games, and look to the stars! 🔭
+</p>
 
 ###
 
@@ -82,14 +86,6 @@
 
 ###
 
-<h3 align="left">🎮 Other Fun Stuff</h3>
-
-<div align="center">
-  <img height="200" src="https://i.redd.it/yc20vrqggmdx.gif"  />
-</div>
-
-###
-
 <h3 align="left">✍️ Random Dev Quote</h3>
 
 <div align="center">
@@ -109,5 +105,6 @@
 [![](https://visitcount.itsvg.in/api?id=nihith1801&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
