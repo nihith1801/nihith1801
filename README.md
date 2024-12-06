@@ -6,33 +6,17 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nihith-wudali-808478247/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nihith1801.nihith1801&"  />
-</div>
-
-###
-
 <h1 align="center">Hello there 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm Nihith from Dehradun, Uttarakhand<br><br>- 📚 I'm currently learning AI/ML and Data Analysis.<br>- ⚡ In my free time I create AI images and play games and look at the stars! 🔭</p>
+<p align="left">I'm Nihith from Dehradun, Uttarakhand<br><br>- 📚 I'm currently learning AI/ML and Data Analysis.<br>- ⚡ In my free time I create AI images, play games, and look at the stars! 🔭</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,29 +40,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/nihith1801/nihith1801/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🌐 Socials</h3>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.redd.it/yc20vrqggmdx.gif"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
+  <a href="https://www.linkedin.com/in/nihith-wudali-808478247/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://open.spotify.com/user/313ab6tiuaclld6omsrwb7z37zwa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ab6tiuaclld6omsrwb7z37zwa&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   </a>
 </div>
 
 ###
+
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihith1801&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
@@ -87,28 +66,48 @@
 
 ###
 
+<h3 align="left">📊 GitHub Streak</h3>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihith1801&theme=gruvbox&hide_border=false" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nihith-wudali-808478247/) 
+<h3 align="left">🏆 GitHub Trophies</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nihith1801&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nihith1801&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihith1801&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nihith1801&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nihith1801&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<h3 align="left">🎮 Other Fun Stuff</h3>
+
+<div align="center">
+  <img height="200" src="https://i.redd.it/yc20vrqggmdx.gif"  />
+</div>
+
+###
+
+<h3 align="left">✍️ Random Dev Quote</h3>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="dev quote" />
+</div>
+
+###
+
+<h3 align="left">🐍 Snake Animation</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nihith1801/nihith1801/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nihith1801&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
