@@ -94,7 +94,7 @@
 
 ###
 
-<h3 align="left">🐍 Snake Animation</h3>
+<h3 align="left">🐍 And there's Mr.Snake eating up all my commits... :D</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nihith1801/nihith1801/output/snake.svg" alt="Snake animation" />
